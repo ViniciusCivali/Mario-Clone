@@ -3,7 +3,7 @@ Implementation of a Mario clone using Unity with C#
 
 Mario is a media franchise, published and produced by video game company Nintendo, created by Japanese game designer Shigeru Miyamoto and starring the fictional character Mario.
 
-https://en.wikipedia.org/wiki/Mario_(franchise)
+Wikipedia: " https://en.wikipedia.org/wiki/Mario_(franchise) "
 
 Not the executable, it takes Unity to play it.
 
